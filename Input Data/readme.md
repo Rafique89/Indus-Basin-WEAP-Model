@@ -10,5 +10,5 @@ Volume Elevation Curve | This curve is used to calculate the volume of the reser
 | | | Mangla | (https://git.io/fxFuG) | Verified | * |
 Evaporation | Losses due to evaporation reduce the water level in the reservoir, thus affecting the available water to allocate for the objectives | Tarbela | 180mm per year| Uncertain | **
 | | | Mangla | 120 mm per year | Uncertain | **
-* = As it is
+'*' = As it is
 ** = Detailed Time series data is required which is missing in the WEAP model
