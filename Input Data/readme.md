@@ -10,8 +10,8 @@ Volume Elevation Curve | This curve is used to calculate the volume of the reser
 | | | Mangla | (https://git.io/fxFuG) | Verified | * |
 Evaporation | Losses due to evaporation reduce the water level in the reservoir, thus affecting the available water to allocate for the objectives | Tarbela | 180mm per year| Uncertain | **
 | | | Mangla | 120 mm per year | Uncertain | **
-Top of Conservation | This refers to the maximum desired level intended to be maintained in the reservoir | Tarbela (https://git.io/fxFas) | Rule Curve of Tarbela | Verified | *
-| | | Mangla | Rule Curve of Tarbela | Verified | *
+Top of Conservation | This refers to the maximum desired level intended to be maintained in the reservoir | Tarbela | Rule Curve of Tarbela( https://git.io/fxFas) | Verified | *
+| | | Mangla | Rule Curve of Mangla  | Verified | *
 Top of inactive | The amount of water not available for the allocation | Tarbela | 583,000 AF | Uncertain
 | | | Mangla | 0 AF | Uncertain | **
 Maximum Turbine Outflow | Maximum amount of water flowing through the turbines installed with the hydropower generation | Tarbela | 173,000 cfs | Verified | *
