@@ -35,7 +35,7 @@ Wheat | 4305787.20 | 5311110384.07 |
 Rice | 9790603.20 | 12076531399.84 |
 Cotton | 2529618.00 | 3120237903.89 |
 Sugarcane (Autumn) | 989403.33 | 1219966999.21 |
-SUgarcane (Spring) | 1483564.99 | 1829950498.82 |
+Sugarcane (Spring) | 1483564.99 | 1829950498.82 |
 
 #### Monthly Crop Water Requirement in Cubic Meters
 Month | Wheat | Rice | Cotton | Sugarcane (Autumn) | Sugarcane (Spring) |
