@@ -37,7 +37,7 @@ Cotton | 2529618.00 | 3120237903.89 |
 Sugarcane (Autumn) | 989403.33 | 1219966999.21 |
 Sugarcane (Spring) | 1483564.99 | 1829950498.82 |
 
-(https://github.com/Rafique89/Indus-Basin-WEAP-Model/blob/master/Input%20Data/Graphs/Annual.jpg)
+(https://tinyurl.com/Annual-water-requirement)
 
 #### Monthly Crop Water Requirement in Cubic Meters
 Month | Wheat | Rice | Cotton | Sugarcane (Autumn) | Sugarcane (Spring) |
