@@ -38,7 +38,7 @@ Cotton | 2529618.00 | 3120237903.89 |
 Sugarcane (Autumn) | 989403.33 | 1219966999.21 |
 Sugarcane (Spring) | 1483564.99 | 1829950498.82 |
 
-#### Punjab
+#### Punjab Province
 Annual crop water requirement | ac-ft | Cubic meter |
 --- | --- | --- |
 Wheat | 18236275.00 | 22494114568.00 |
@@ -47,7 +47,7 @@ Cotton | 14334502.00 | 17681348122.00 |
 Sugarcane (Autumn) | 599132.02 | 739018470.70 |
 Sugarcane (Spring) | 5392188.10 | 6651166236.00 |
 
-#### Kyhber Pakhtunkhawa
+#### Kyhber Pakhtunkhawa Province
 Annual crop water requirement | ac-ft | Cubic meter |
 --- | --- | --- |
 Wheat | 1772971.20 | 2186927805.00 |
@@ -56,7 +56,7 @@ Cotton | 0.00 | 0.00 |
 Sugarcane (Autumn) | 1141203.80 | 1407654230.00 |
 Sugarcane (Spring) | 0.00 | 0.00 |
 
-#### Balochistan
+#### Balochistan Province
 Annual crop water requirement | ac-ft | Cubic meter |
 --- | --- | --- |
 Wheat | 1013126.40 | 1249673032.00 |
@@ -68,7 +68,7 @@ Sugarcane (Spring) | 0.00 | 0.00 |
 (https://tinyurl.com/Annual-water-requirement)
 
 ### Monthly Crop Water Requirement in Cubic Meters
-#### Sindh
+#### Sindh Province
 Month | Wheat | Rice | Cotton | Sugarcane (Autumn) | Sugarcane (Spring) |
 --- | --- | --- | --- | --- | --- |
 January | 1327777596.00 | 1509566425.00 | 0.00 | 0.00 | 140765423.00 |
@@ -84,7 +84,7 @@ October | 0.00 | 1509566425.00 | 44574872.00 | 93843615.31 | 0.00 |
 November | 0.00 | 1509566425.00 | 44574872.00 | 93843615.31 | 0.00 |
 December | 1327777596.00 | 1509566425.00 | 0.00 | 93843615.31 | 0.00 |
 
-#### Punjab Province
+#### Punjab Province 
 Month | Wheat | Rice | Cotton | Sugarcane (Autumn) | Sugarcane (Spring) |
 --- | --- | --- | --- | --- | --- |
 January | 5623528642.00 | 1612704504.00 | 0.00 | 0.00 | 511628172.00 |
@@ -116,7 +116,7 @@ October | 0.00 | 112514268.00 | 0.00 | 108281094.60 | 0.00 |
 November | 0.00 | 112514268.00 | 0.00 | 108281094.60 | 0.00 |
 December | 437385561.00 | 112514268.00 | 0.00 | 108281094.60 | 0.00 |
 
-#### Balochistan 
+#### Balochistan Province
 Month | Wheat | Rice | Cotton | Sugarcane (Autumn) | Sugarcane (Spring) |
 --- | --- | --- | --- | --- | --- |
 January | 249934606.40 | 300038047.00 | 0.00 | 0.00 | 0.00 |
