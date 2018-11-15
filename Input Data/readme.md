@@ -79,7 +79,7 @@ October | 0.00 | 0.00 | 2720207403.00 | 56847574.67 | 0.00 |
 November | 0.00 | 612704504.00 | 0.00 | 56847574.67 | 0.00 |
 December | 2811764321.00 | 612704504.00 | 0.00 | 56847574.67 | 0.00 |
 
-### KPK Province
+### Khyber Pakhtunkhawa Province
 #### Annual Crop Water Requirement
 Annual crop water requirement | ac-ft | Cubic meter |
 --- | --- | --- |
@@ -104,3 +104,29 @@ September | 0.00 | 0.00 | 0.00 | 108281094.60 | 0.00 |
 October | 0.00 | 112514268.00 | 0.00 | 108281094.60 | 0.00 |
 November | 0.00 | 112514268.00 | 0.00 | 108281094.60 | 0.00 |
 December | 437385561.00 | 112514268.00 | 0.00 | 108281094.60 | 0.00 |
+
+### Balochistan Province
+#### Annual Crop Water Requirement
+Annual crop water requirement | ac-ft | Cubic meter |
+--- | --- | --- |
+Wheat | 1013126.40 | 1249673032.00 |
+Rice | 1702713.60 | 2100266330.00 |
+Cotton | 0.00 | 0.00 |
+Sugarcane (Autumn) | 0.00 | 0.00 |
+Sugarcane (Spring) | 0.00 | 0.00 |
+
+#### Monthly Crop Water Requirement in Cubic Meters
+Month | Wheat | Rice | Cotton | Sugarcane (Autumn) | Sugarcane (Spring) |
+--- | --- | --- | --- | --- | --- |
+January | 249934606.40 | 300038047.00 | 0.00 | 0.00 | 0.00 |
+February | 249934606.40 | 300038047.00 | 0.00 | 0.00 | 0.00 |
+March | 249934606.40 | 300038047.00 | 0.00 | 0.00 | 0.00 |
+April | 249934606.40 | 300038047.00 | 0.00 | 0.00 | 0.00 |
+May | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
+June | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
+July | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
+August | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
+September | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
+October | 0.00 | 300038047.00 | 0.00 | 0.00 | 0.00 |
+November | 0.00 | 300038047.00 | 0.00 | 0.00 | 0.00 |
+December | 249934606.40 | 300038047.00 | 0.00 | 0.00 | 0.00 |
